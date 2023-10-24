@@ -1,0 +1,61 @@
+*{
+    font-family: arial,Verdana;
+    
+   }
+    #banner{
+        background-image: linear-gradient(180deg , blue, cadetblue);
+        opacity: 0.8;
+        width: auto;
+        height: 50px;
+        margin: 0%;
+        padding: 0%;
+        
+        
+    }
+
+    #header{
+        width: 700px;
+        height: 400px;
+        background-image: url("resim.png");
+        background-size: 700px 400px;
+        margin: auto;
+        
+    }
+    #icerik{
+        background-color: #8ea5bb;
+        width: 700px;
+        min-height: 1.2em;
+        margin: auto;
+    }
+    h3{
+        color: #2050bc;
+        margin: 0px;
+        padding: 0px;
+        
+    }
+    .h4{
+        color: #2050bc;
+        padding: 0 35px;
+        
+    }
+    .Tarih{
+        color: #2050bc;
+        padding: 0 35px;
+        
+    }
+    p{
+        padding: 0 35px;
+        font-size: 13px;
+        margin: auto;
+    }
+    .liste{
+        padding: 0 80px;
+    }
+    .generic{
+        font-size: 13px;
+    }
+
+    h6{
+        margin-top: 0%;
+        padding: 0 500px;
+    }
